@@ -8,9 +8,6 @@
 **zhangsx19/zhangsx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I'm an undergraduate student at Department of Electronic Engineering, Tsinghua University
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
